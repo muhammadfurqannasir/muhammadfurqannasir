@@ -2,7 +2,7 @@
 ## About Me
 - 🎓 I am currently enrolled in BSCS at Iqra University
 - 💼 I have experience in Python.
-- 👀 I’m Passionate About Leveraging Machine Learning, Python, and AI to Uncover Data-Driven Solutions
+- 👀 I’m Excited to Use Machine Learning, Python, and AI for Revealing Data-Driven Solutions
 - 🌱 I’m currently learning advanced techniques in Machine Learning.
 - 💞️ I’m looking to collaborate on projects related to AI and Machine Learning.
 - 😄 Pronouns: He/him/his
